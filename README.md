@@ -10,3 +10,7 @@ This repo tracks my learning journey from zero to SRE.
 
 ## Progress
 - [ ] Phase 0 - Setup
+- [ ] Phase 1 - Python Foundations
+- [ ] Phase 2 - Web & Auth World
+- [ ] Phase 3 - Build SSO Middleware
+- [ ] Phase 4 - SRE Layer
